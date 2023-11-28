@@ -85,7 +85,8 @@ footer {
 }
 .tyg {
   color: #fffdfd;
-}
+  width: 420px;
+  font-size: 28px;
 
 .uji {
   width: 160px;
